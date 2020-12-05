@@ -1,0 +1,1 @@
+FIXME turkish-deasciifier scirpt haline getir.
